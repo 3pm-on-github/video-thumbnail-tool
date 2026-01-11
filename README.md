@@ -1,2 +1,3 @@
 # video-thumbnail-tool
-a tool used to set a discord thumbnail for a video. uses ffmpeg, opencv and python.
+a tool used to modify videos. uses ffmpeg, opencv and python.
+usage: [-fc, --frame-copy, -ar, --audio-replace] [inputfile1] [inputfile2]
